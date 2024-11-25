@@ -9,8 +9,6 @@ Neecesitas instalar los siguientes programas:
 * git
 * vim
 
-## Descarga
-
 Descarga este repositorio con `git`:
 
 ```shell
