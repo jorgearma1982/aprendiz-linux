@@ -11,4 +11,4 @@ Las lecciones individuales del vimtutor son las siguientes:
 * **Lección 04**: [Aprende a buscar y remplazar texto en Vim](vimtutor-leccion-4.md)
 * **Lección 05**: [Ejecuta Comandos Externos y Domina la Gestión de Archivos en Vim](vimtutor-leccion-5.md)
 * **Lección 06**: [Domina open, append y Configuraciones en Vim](vimtutor-leccion-6.md)
-* **Lección 07**: [xplora las Opciones de Ayuda en Vim](vimtutor-leccion-7.md)
+* **Lección 07**: [Explora las Opciones de Ayuda en Vim](vimtutor-leccion-7.md)
