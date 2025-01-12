@@ -22,7 +22,7 @@ proyectos. Además, te plantearemos un reto para practicar lo aprendido y consol
 Hoy seguimos avanzando en nuestro camino con el vimtutor, explorando los comandos de la lección 3.  
 ¿Estás listo para aprender cómo poner texto, reemplazar caracteres y cambiar líneas en Vim?  
 
-### Escena 2: Comando `put`
+### Práctica 2: Comando `put`
 
 Primero, el comando **put** (`p`). Este comando es súper útil para colocar texto que has cortado o copiado.  
 Por ejemplo, si copias una línea con `yy` y luego presionas `p`, el texto se pega justo debajo del cursor.  
@@ -30,13 +30,13 @@ Por ejemplo, si copias una línea con `yy` y luego presionas `p`, el texto se pe
 ¿Y si quieres pegar encima del cursor? Usa `P` mayúscula.  
 ¡Así de sencillo es gestionar tus recortes con precisión!
 
-### Escena 3: Comando `replace`
+### Práctica 3: Comando `replace`
 
 Pasemos al comando **replace** (`r`). Este comando es perfecto para reemplazar un solo carácter de manera rápida.  
 Por ejemplo, coloca el cursor sobre cualquier letra y presiona `r` seguido de la nueva letra que quieras.  
 ¡Y listo, reemplazo instantáneo! Si necesitas modificar más caracteres, no olvides el modo de inserción.
 
-### Escena 4: Comando `change`
+### Práctica 4: Comando `change`
 
 Finalmente, el comando **change** (`c`). Este es ideal para reemplazar bloques enteros de texto.  
 Por ejemplo, con `cw` puedes borrar desde el cursor hasta el final de la palabra y entrar automáticamente en el modo
