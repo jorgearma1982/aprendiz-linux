@@ -51,3 +51,5 @@ Ejecuta el tutor de vim desde la línea de comandos:
 ```shell
 vimtutor es
 ```
+
+Para más información del vimtutor ver las notas: [Notas Vimtutor](vim/).
