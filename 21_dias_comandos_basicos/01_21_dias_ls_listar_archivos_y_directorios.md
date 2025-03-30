@@ -3,14 +3,10 @@
 Bienvenido a **21 días de comandos Linux**, una serie para mejorar tu flujo en la terminal.  
 Este documento complementa el video sobre el comando `ls` y te servirá como referencia rápida.  
 
----
-
 ## 🔍 ¿Qué es `ls`?  
 
 El comando `ls` se usa para **listar archivos y directorios** en la terminal de Linux.  
 Es una alternativa al explorador de archivos gráfico, pero mucho más poderosa.  
-
----
 
 ## 📌 Uso básico  
 
@@ -22,11 +18,9 @@ ls
 
 Ejemplo de salida:  
 
-```
+```bash
 Documentos  Descargas  Imágenes  Música  Escritorio
 ```
-
----
 
 ## ⚡ Opciones útiles  
 
@@ -41,23 +35,28 @@ Documentos  Descargas  Imágenes  Música  Escritorio
 ### 📝 Ejemplos  
 
 🔹 **Lista en formato detallado:**  
+
 ```bash
 ls -l
 ```
+
 🔹 **Lista incluyendo archivos ocultos:**  
+
 ```bash
 ls -a
 ```
+
 🔹 **Lista con tamaños legibles:**  
+
 ```bash
 ls -lh
 ```
+
 🔹 **Ordena por fecha de modificación:**  
+
 ```bash
 ls -lt
 ```
-
----
 
 ## 🎯 Reto práctico  
 
@@ -66,15 +65,10 @@ ls -lt
 3. Prueba `ls -a` para ver los archivos ocultos.  
 4. Comenta en el video qué opción te pareció más útil.  
 
----
-
 ## 📢 Más recursos  
 
-📺 **Video en YouTube:** [🔗 Ver Video](#) *(enlace al video cuando esté disponible)*  
+📺 **Video en YouTube:** [🔗 Ver Video](https://youtu.be/1uZL1TXXxqo)
 📖 **Documentación oficial:** [GNU Coreutils `ls`](https://www.gnu.org/software/coreutils/manual/html_node/ls-invocation.html)  
 
----
-
-🚀 **Sigue la serie en GitHub**: [🔗 Repositorio](#) *(enlace al repo cuando esté disponible)*  
-🔔 **Suscríbete para más contenido** y mejora tu dominio de la terminal Linux.  
-
+🚀 **Sigue la serie en GitHub**: [🔗 Repositorio](https://github.com/jorgearma1982/aprendiz-linux)
+🔔 **Suscríbete para más contenido** y mejora tu dominio de la terminal Linux.

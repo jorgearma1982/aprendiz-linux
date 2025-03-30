@@ -3,15 +3,11 @@
 Bienvenido a **21 días de comandos Linux**, una serie para mejorar tu flujo en la terminal.  
 Este documento complementa el video sobre el comando `rm` y te servirá como referencia rápida.  
 
----
-
 ## 🔍 ¿Qué es `rm`?  
 
 El comando `rm` significa **"remove"** y se usa para **eliminar archivos y directorios** en la terminal de Linux.  
 
 🚨 **⚠️ Precaución:** Los archivos eliminados con `rm` **no se pueden recuperar**. Úsalo con cuidado.  
-
----
 
 ## 📌 Uso básico  
 
@@ -20,8 +16,6 @@ Para eliminar un archivo, usa:
 ```bash
 rm archivo.txt
 ```
-
----
 
 ## ⚡ Opciones útiles  
 
@@ -35,21 +29,22 @@ rm archivo.txt
 ### 📝 Ejemplos  
 
 🔹 **Eliminar un archivo con confirmación:**  
+
 ```bash
 rm -i importante.txt
 ```
 
 🔹 **Eliminar un directorio con su contenido:**  
+
 ```bash
 rm -r carpeta
 ```
 
 🔹 **Eliminar un directorio sin confirmación (⚠️ Peligroso):**  
+
 ```bash
 rm -rf datos/
 ```
-
----
 
 ## 🎯 Reto práctico  
 
@@ -58,14 +53,10 @@ rm -rf datos/
 3. Crea un directorio con archivos y bórralo con `rm -r`.  
 4. Comenta en el video qué precauciones tomaste antes de usar `rm`.  
 
----
-
 ## 📢 Más recursos  
 
-📺 **Video en YouTube:** [🔗 Ver Video](#) *(enlace cuando esté disponible)*  
+📺 **Video en YouTube:** [🔗 Ver Video](https://youtu.be/Wjrs-7jY9gU)
 📖 **Documentación oficial:** [GNU Coreutils `rm`](https://www.gnu.org/software/coreutils/manual/html_node/rm-invocation.html)  
 
----
-
-🚀 **Sigue la serie en GitHub**: [🔗 Repositorio](#) *(enlace cuando esté disponible)*  
-🔔 **Suscríbete para más contenido** y mejora tu dominio de la terminal Linux.  
+🚀 **Sigue la serie en GitHub**: [🔗 Repositorio](https://github.com/jorgearma1982/aprendiz-linux)
+🔔 **Suscríbete para más contenido** y mejora tu dominio de la terminal Linux.

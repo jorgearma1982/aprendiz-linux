@@ -3,15 +3,11 @@
 Bienvenido a **21 días de comandos Linux**, una serie para mejorar tu flujo en la terminal.  
 Este documento complementa el video sobre el comando `cd` y te servirá como referencia rápida.  
 
----
-
 ## 🔍 ¿Qué es `cd`?  
 
 El comando `cd` significa **"change directory"** y se usa para **movernos entre directorios** en la terminal de Linux.  
 
 Si quieres navegar por el sistema de archivos sin usar un explorador gráfico, `cd` es la herramienta esencial.  
-
----
 
 ## 📌 Uso básico  
 
@@ -29,8 +25,6 @@ cd Documentos
 
 Esto te moverá al directorio `Documentos` dentro de tu ubicación actual.  
 
----
-
 ## ⚡ Opciones y atajos útiles  
 
 | Comando  | Descripción |
@@ -44,31 +38,34 @@ Esto te moverá al directorio `Documentos` dentro de tu ubicación actual.
 ### 📝 Ejemplos  
 
 🔹 **Cambiar a un directorio específico:**  
+
 ```bash
 cd Descargas
 ```
 
 🔹 **Volver al directorio anterior:**  
+
 ```bash
 cd ..
 ```
 
 🔹 **Subir dos niveles en la jerarquía de directorios:**  
+
 ```bash
 cd ../..
 ```
 
 🔹 **Ir directamente al directorio de inicio (`home`):**  
+
 ```bash
 cd ~
 ```
 
 🔹 **Volver al último directorio visitado:**  
+
 ```bash
 cd -
 ```
-
----
 
 ## 🎯 Reto práctico  
 
@@ -77,14 +74,10 @@ cd -
 3. Prueba `cd -` para alternar entre dos directorios rápidamente.  
 4. Comenta en el video cuál de estos atajos te pareció más útil.  
 
----
-
 ## 📢 Más recursos  
 
-📺 **Video en YouTube:** [🔗 Ver Video](#) *(enlace al video cuando esté disponible)*  
+📺 **Video en YouTube:** [🔗 Ver Video](https://youtu.be/2YGV7opw4io)
 📖 **Documentación oficial:** [GNU Coreutils `cd`](https://man7.org/linux/man-pages/man1/cd.1p.html)  
 
----
-
-🚀 **Sigue la serie en GitHub**: [🔗 Repositorio](#) *(enlace al repo cuando esté disponible)*  
-🔔 **Suscríbete para más contenido** y mejora tu dominio de la terminal Linux.  
+🚀 **Sigue la serie en GitHub**: [🔗 Repositorio](https://github.com/jorgearma1982/aprendiz-linux)
+🔔 **Suscríbete para más contenido** y mejora tu dominio de la terminal Linux.
