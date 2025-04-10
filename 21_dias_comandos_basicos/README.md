@@ -15,7 +15,7 @@
 
 ## Semana 2
 
-* **Día 08**: [Día 8: Control de permisos con chmod](08_21_dias_chmod_controlar_permisos_archivos.md)
+* **Día 08**: [🔐 chmod - Controla permisos de archivos en Linux](08_21_dias_chmod_controlar_permisos_archivos.md)
 * **Díá 09**: [Día 9 - Comando chown 🧑💼📦](09_21_dias_chown_cambiar_propietario_archivos.md)
 * **Díá 10**: [🛠️ Día 10 Conociendo tu usuario con whoami](10_21_dias_whois_identificar_usuarios.md)
 * **Día 11**: [🛠️ sudo - Ejecuta comandos como administrador en Linux](11_21_dias_sudo_comandos_administrador.md)
