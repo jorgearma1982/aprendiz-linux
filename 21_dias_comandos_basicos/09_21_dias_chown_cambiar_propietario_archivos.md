@@ -1,4 +1,4 @@
-# Día 9 - Comando `chown` 🧑💼📦  
+# 🧑 chown - Cambia propietarios de archivos en Linux
 
 **21 días de comandos Linux** — Mejora tu flujo en la terminal 🧠💻
 
