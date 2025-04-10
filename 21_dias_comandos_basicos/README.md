@@ -12,3 +12,11 @@
 * **Díá 05**: [🗑️ rm - Elimina archivos y directorios en Linux](05_21_dias_rm_elimina_archivos.md)
 * **Día 06**: [📄 cp - Copia archivos y directorios en Linux](06_21_dias_cp_copiar_archivos.md)
 * **Díá 07**: [🔀 mv - Mueve y renombra archivos en Linux](07_21_dias_mv_mover_renombrar_archivos.md)
+
+## Semana 2
+
+* **Día 08**: [Día 8: Control de permisos con chmod](08_21_dias_chmod_controlar_permisos_archivos.md)
+* **Díá 09**: [Día 9 - Comando chown 🧑💼📦](09_21_dias_chown_cambiar_propietario_archivos.md)
+* **Díá 10**: [🛠️ Día 10 Conociendo tu usuario con whoami](10_21_dias_whois_identificar_usuarios.md)
+* **Día 11**: [🛠️ Día 11 Comando sudo](11_21_dias_sudo_comandos_administrador.md)
+* **Día 12**: [🧠 Día 12 Comando ps](12_21_dias_ps_mostrar_procesos.md)
