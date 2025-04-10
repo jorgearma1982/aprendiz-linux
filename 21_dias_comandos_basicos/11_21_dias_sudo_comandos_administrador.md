@@ -1,4 +1,4 @@
-# 🛠️ Día 11 Comando `sudo`
+# 🛠️ sudo - Ejecuta comandos como administrador en Linux
 
 ## 📌 Descripción general
 
