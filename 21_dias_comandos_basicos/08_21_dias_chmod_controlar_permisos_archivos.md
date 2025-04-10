@@ -1,4 +1,4 @@
-# Día 8: Control de permisos con `chmod`
+# 🔐 chmod - Controla permisos de archivos en Linux
 
 ## 📌 Resumen
 
