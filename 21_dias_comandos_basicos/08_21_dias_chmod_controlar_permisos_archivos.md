@@ -47,4 +47,4 @@ chmod 600 archivo_secreto.txt  # Solo el dueño puede leer y escribir
 Modifica los permisos de un archivo para que solo su dueño pueda leerlo y escribir en él, pero nadie más pueda acceder.  
 Sugerencia: Usa `chmod 600 archivo.txt`.  
 
-📺 **Video en YouTube:** _[Aquí irá el enlace]_  
+📺 **Video en YouTube:** _[https://www.youtube.com/watch?v=OjTPn34Ms1Q]_
