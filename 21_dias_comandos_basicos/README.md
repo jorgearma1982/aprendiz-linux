@@ -18,5 +18,5 @@
 * **Día 08**: [Día 8: Control de permisos con chmod](08_21_dias_chmod_controlar_permisos_archivos.md)
 * **Díá 09**: [Día 9 - Comando chown 🧑💼📦](09_21_dias_chown_cambiar_propietario_archivos.md)
 * **Díá 10**: [🛠️ Día 10 Conociendo tu usuario con whoami](10_21_dias_whois_identificar_usuarios.md)
-* **Día 11**: [🛠️ Día 11 Comando sudo](11_21_dias_sudo_comandos_administrador.md)
+* **Día 11**: [🛠️ sudo - Ejecuta comandos como administrador en Linux](11_21_dias_sudo_comandos_administrador.md)
 * **Día 12**: [🧠 Día 12 Comando ps](12_21_dias_ps_mostrar_procesos.md)
