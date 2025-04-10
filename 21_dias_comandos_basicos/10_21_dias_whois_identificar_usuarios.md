@@ -1,4 +1,4 @@
-# 🛠️ Día 10 Conociendo tu usuario con `whoami`
+# 🛠️ whoami - Identifica usuarios en Linux
 
 ## 🎯 Objetivo  
 
