@@ -22,3 +22,7 @@
 * **Día 12**: [🧠 ps - Muestra información de los procesos en Linux](12_21_dias_ps_mostrar_procesos.md)
 * **Día 13**: [🐧 top - Supervisa procesos y recursos en Linux](13_21_dias_top_supervisa_procesos_y_recursos.md)
 * **Día 14**: [🧨 kill - Termina procesos en Linux](14_21_dias_kill_termina_proceso.md)
+
+## Semana 3
+
+* **Día 15**: [📦 apt - Administra paquetes en Debian Linux](15_21_dias_apt_administra_paquetes_debian_linux.md)
