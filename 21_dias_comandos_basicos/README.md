@@ -20,3 +20,4 @@
 * **Díá 10**: [🛠️ whoami - Identifica usuarios en Linux](10_21_dias_whois_identificar_usuarios.md)
 * **Día 11**: [🛠️ sudo - Ejecuta comandos como administrador en Linux](11_21_dias_sudo_comandos_administrador.md)
 * **Día 12**: [🧠 ps - Muestra información de los procesos en Linux](12_21_dias_ps_mostrar_procesos.md)
+* **Día 13**: [🐧 top - Supervisa procesos y recursos en Linux](13_21_dias_top_supervisa_procesos_y_recursos.md)
