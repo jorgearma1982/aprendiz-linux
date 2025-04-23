@@ -19,4 +19,4 @@
 * **Díá 09**: [🧑 chown - Cambia propietarios de archivos en Linux](09_21_dias_chown_cambiar_propietario_archivos.md)
 * **Díá 10**: [🛠️ whoami - Identifica usuarios en Linux](10_21_dias_whois_identificar_usuarios.md)
 * **Día 11**: [🛠️ sudo - Ejecuta comandos como administrador en Linux](11_21_dias_sudo_comandos_administrador.md)
-* **Día 12**: [🧠 Día 12 Comando ps](12_21_dias_ps_mostrar_procesos.md)
+* **Día 12**: [🧠 ps - Muestra información de los procesos en Linux](12_21_dias_ps_mostrar_procesos.md)
