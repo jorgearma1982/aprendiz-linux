@@ -1,4 +1,4 @@
-# 🧠 Día 12 Comando `ps`
+# 🧠 ps - Muestra información de los procesos en Linux
 
 ## 🗒️ Descripción general
 
