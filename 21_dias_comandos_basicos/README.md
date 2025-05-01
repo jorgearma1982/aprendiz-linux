@@ -27,3 +27,5 @@
 
 * **Día 15**: [📦 apt - Administra paquetes en Debian Linux](15_21_dias_apt_administra_paquetes_debian_linux.md)
 * **Día 16**: [📦 dpkg - Administra paquetes `.deb` en Linux](16_21_dias_dpkg_administra_paquetes_deb_en_linux.md)
+* **Día 17**: [📡 ping: Prueba tu red en la terminal Linux](17_21_dias_ping_probar_red_linux.md)
+* **Día 18**: [📘 curl - Accede a contenidos web desde la terminal Linux](18_21_dias_curl_descargas_web_linux.md)
