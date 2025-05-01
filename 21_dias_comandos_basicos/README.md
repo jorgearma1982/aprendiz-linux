@@ -29,3 +29,5 @@
 * **Día 16**: [📦 dpkg - Administra paquetes `.deb` en Linux](16_21_dias_dpkg_administra_paquetes_deb_en_linux.md)
 * **Día 17**: [📡 ping: Prueba tu red en la terminal Linux](17_21_dias_ping_probar_red_linux.md)
 * **Día 18**: [📘 curl - Accede a contenidos web desde la terminal Linux](18_21_dias_curl_descargas_web_linux.md)
+* **Día 19**: [📌 netstat - Ve estadisticas de red en Linux](19_21_dias_netstat_ver_estadisticas_red_linux.md)
+* **Día 20**: [🧠 ifconfig - Configura interfaces de red en Linux](20_21_dias_ifconfig_configurar_interfaces_red_linux.md)
