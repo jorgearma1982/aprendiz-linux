@@ -62,8 +62,10 @@ mkdir -v mis_fotos
 
 ## 📢 Más recursos  
 
-📺 **Video en YouTube:** [🔗 Ver Video](https://youtu.be/zs-KZazFa5o)
-📖 **Documentación oficial:** [GNU Coreutils `mkdir`](https://www.gnu.org/software/coreutils/manual/html_node/mkdir-invocation.html)  
+📖 **Documentación oficial:** [GNU Coreutils `mkdir`](https://www.gnu.org/software/coreutils/manual/html_node/mkdir-invocation.html) 
 
-🚀 **Sigue la serie en GitHub**: [🔗 Repositorio](https://github.com/jorgearma1982/aprendiz-linux)
+📺 **Video en YouTube:** [🔗 Día 4 - Aprende el comando mkdir para crear directorios en Linux](https://youtu.be/zs-KZazFa5o?si=TsT0GXtEwsEMs1RY)
+ 
+🚀 **Sigue la serie en GitHub**: [aprendiz-linux](https://github.com/jorgearma1982/aprendiz-linux/tree/main/21_dias_comandos_basicos)
+
 🔔 **Suscríbete para más contenido** y mejora tu dominio de la terminal Linux.
