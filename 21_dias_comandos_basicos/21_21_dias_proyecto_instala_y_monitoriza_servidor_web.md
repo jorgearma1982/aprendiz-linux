@@ -1,4 +1,4 @@
-# 🖥️ Día 21 – Proyecto Final: Levantar un servidor web y monitorearlo con comandos Linux
+# 🖥️ Proyecto - Levantar un servidor web y monitorearlo con comandos Linux
 
 ## 📘 Descripción
 
