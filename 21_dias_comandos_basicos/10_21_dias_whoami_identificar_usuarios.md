@@ -57,4 +57,10 @@ root
 2️⃣ Usa `sudo -i` o `su - otro_usuario` y vuelve a ejecutar `whoami`.  
 3️⃣ Comparte en los comentarios si alguna vez has ejecutado un comando con el usuario equivocado.  
 
-📺 **Mira el video en YouTube:** [🔗 Enlace al video](#)
+## Referencias
+
+Todo el contenido de esta serie está disponible en el repositorio:
+
+👉 [🔗 aprendiz-linux](https://github.com/jorgearma1982/aprendiz-linux/tree/main/21_dias_comandos_basicos)
+
+📺 **Mira el video en YouTube:** [🔗 Día 10 - Aprende el comando whoami para identificar usuarios en Linux](https://youtu.be/55-csIxAueI)
