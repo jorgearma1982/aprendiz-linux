@@ -57,7 +57,7 @@ rm -rf datos/
 
 📖 **Documentación oficial:** [GNU Coreutils `rm`](https://www.gnu.org/software/coreutils/manual/html_node/rm-invocation.html)  
 
-📺 **Video en YouTube:** [🔗 Día 5 - Aprende el comando rm y elimina archivos y directorios en Linux](https://youtu.be/Wjrs-7jY9gU?si=Tr8VewIL_JY5BeKK)
+📺 **Video en YouTube:** [🔗 Día 5 - Aprende el comando rm y elimina archivos y directorios en Linux](https://youtu.be/Wjrs-7jY9gU)
 
 🚀 **Sigue la serie en GitHub**: [aprendiz-linux](https://github.com/jorgearma1982/aprendiz-linux/tree/main/21_dias_comandos_basicos)
 
