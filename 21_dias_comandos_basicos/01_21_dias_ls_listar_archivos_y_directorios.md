@@ -69,7 +69,7 @@ ls -lt
 
 📖 **Documentación oficial:** [GNU Coreutils `ls`](https://www.gnu.org/software/coreutils/manual/html_node/ls-invocation.html)  
 
-📺 **Video en YouTube:** [🔗 Día 1- Aprende el comando ls para listar archivos y directorios en Linux](https://youtu.be/1uZL1TXXxqo?si=8ipz4qfrA6LhrR6y)
+📺 **Video en YouTube:** [🔗 Día 1- Aprende el comando ls para listar archivos y directorios en Linux](https://youtu.be/1uZL1TXXxqo)
 
 🚀 **Sigue la serie en GitHub**: [🔗 aprendiz-linux](https://github.com/jorgearma1982/aprendiz-linux/tree/main/21_dias_comandos_basicos)
 
