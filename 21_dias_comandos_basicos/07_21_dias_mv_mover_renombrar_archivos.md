@@ -58,8 +58,10 @@ mv -i reporte.pdf Documentos/
 
 ## 📢 Más recursos  
 
-📺 **Video en YouTube:** [🔗 Ver Video](https://youtu.be/-7XBNeHJYHI)
 📖 **Documentación oficial:** [GNU Coreutils `mv`](https://www.gnu.org/software/coreutils/manual/html_node/mv-invocation.html)  
 
-🚀 **Sigue la serie en GitHub**: [🔗 Repositorio](https://github.com/jorgearma1982/aprendiz-linux)
+📺 **Video en YouTube:** [🔗 Día 7 - Aprende el comando mv para mover y renombrar archivos en Linux](https://youtu.be/-7XBNeHJYHI?si=CxGq2lPUw-d2R4a6)
+
+🚀 **Sigue la serie en GitHub**: [🔗 aprendiz-linux](https://github.com/jorgearma1982/aprendiz-linux/tree/main/21_dias_comandos_basicos)
+
 🔔 **Suscríbete para más contenido** y mejora tu dominio de la terminal Linux.
