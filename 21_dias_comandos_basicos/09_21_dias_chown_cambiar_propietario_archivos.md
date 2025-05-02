@@ -59,14 +59,13 @@ sudo groupadd equipo
 sudo chown $USER:equipo prueba.txt
 ```
 
-## 🎥 Video de apoyo
+## Referencias
 
 📺 Mira el video explicativo en YouTube:  
-👉 [https://www.youtube.com/watch?v=DMfBP8worhI](https://www.youtube.com/watch?v=DMfBP8worhI)
-
-## 📁 Repositorio de apoyo
+👉 [Dia 9 - Aprende el comando chown para cambiar propietarios de archivos en Linux](https://youtu.be/DMfBP8worhI)
 
 Todo el contenido de esta serie está disponible en el repositorio:
-🔗 [https://github.com/jorgearma1982/aprendiz-linux/tree/main/21_dias_comandos_basicos](https://github.com/jorgearma1982/aprendiz-linux/tree/main/21_dias_comandos_basicos)
+
+👉 [🔗 aprendiz-linux](https://github.com/jorgearma1982/aprendiz-linux/tree/main/21_dias_comandos_basicos)
 
 ¡Nos vemos en el próximo día con más comandos esenciales de Linux! 🚀🐧
