@@ -78,7 +78,7 @@ cd -
 
 📖 **Documentación oficial:** [GNU Coreutils `cd`](https://man7.org/linux/man-pages/man1/cd.1p.html)  
 
-📺 **Video en YouTube:** [🔗 Día 3 - Aprende el comando cd para moverte entre directorios en Linux](https://youtu.be/2YGV7opw4io?si=xsF57qK1VMEUMm8m)
+📺 **Video en YouTube:** [🔗 Día 3 - Aprende el comando cd para moverte entre directorios en Linux](https://youtu.be/2YGV7opw4io)
 
 🚀 **Sigue la serie en GitHub**: [🔗 aprendiz-linux](https://github.com/jorgearma1982/aprendiz-linux/tree/main/21_dias_comandos_basicos)
 
