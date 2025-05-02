@@ -57,7 +57,7 @@ cp -i config.json /etc/
 
 📖 **Documentación oficial:** [GNU Coreutils `cp`](https://www.gnu.org/software/coreutils/manual/html_node/cp-invocation.html)  
 
-📺 **Video en YouTube:** [🔗 Día 6 - Aprende el comando cp y copia archivos y directorios en Linux](https://youtu.be/f4hEumDfZdo?si=3Z4QxzvrPczZ0Ffv)
+📺 **Video en YouTube:** [🔗 Día 6 - Aprende el comando cp y copia archivos y directorios en Linux](https://youtu.be/f4hEumDfZdo)
 
 🚀 **Sigue la serie en GitHub**: [aprendiz-linux](https://github.com/jorgearma1982/aprendiz-linux/tree/main/21_dias_comandos_basicos)
 
