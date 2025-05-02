@@ -63,8 +63,7 @@ netstat -s
 - [Documentación oficial GNU/Linux de net-tools](https://linux.die.net/man/8/netstat)
 - [Alternativa moderna: comando `ss`](https://man7.org/linux/man-pages/man8/ss.8.html)
 
-
 Encuentra todos los scripts y materiales del reto en:  
 📁 GitHub: [aprendiz-linux](https://github.com/jorgearma1982/aprendiz-linux/tree/main/21_dias_comandos_basicos)
 
-🎥 Video en YouTube: disponible a partir del día 19 en la [lista de reproducción oficial](https://www.youtube.com/playlist?list=PL-RETO-LINUX21)
+🎥 Video en YouTube: disponible a partir del día 19 en la [Día 19 - Aprende el comando netstat para ver estadisticas de Red en Linux](https://youtu.be/VgPfK3PjBfo?si=zQNAqXkaGcQypyk1)
