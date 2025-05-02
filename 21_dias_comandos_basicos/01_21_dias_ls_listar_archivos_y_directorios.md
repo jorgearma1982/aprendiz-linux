@@ -67,8 +67,10 @@ ls -lt
 
 ## 📢 Más recursos  
 
-📺 **Video en YouTube:** [🔗 Ver Video](https://youtu.be/1uZL1TXXxqo)
 📖 **Documentación oficial:** [GNU Coreutils `ls`](https://www.gnu.org/software/coreutils/manual/html_node/ls-invocation.html)  
 
-🚀 **Sigue la serie en GitHub**: [🔗 Repositorio](https://github.com/jorgearma1982/aprendiz-linux)
+📺 **Video en YouTube:** [🔗 Día 1- Aprende el comando ls para listar archivos y directorios en Linux](https://youtu.be/1uZL1TXXxqo?si=8ipz4qfrA6LhrR6y)
+
+🚀 **Sigue la serie en GitHub**: [🔗 aprendiz-linux]([https://github.com/tu-usuario/linux-en-21-dias](https://github.com/jorgearma1982/aprendiz-linux/tree/main/21_dias_comandos_basicos)
+
 🔔 **Suscríbete para más contenido** y mejora tu dominio de la terminal Linux.
