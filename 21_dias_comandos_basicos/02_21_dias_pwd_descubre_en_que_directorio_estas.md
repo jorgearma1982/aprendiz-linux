@@ -65,7 +65,7 @@ pwd -P
 
 📖 **Documentación oficial:** [GNU Coreutils `pwd`](https://www.gnu.org/software/coreutils/manual/html_node/pwd-invocation.html)
 
-📺 **Video en YouTube:** [🔗 Día 2 - Aprende pwd y descubre en que directorio estas en Linux](https://youtu.be/r8oF7tlP0KE?si=uvHNk7Ggx98hDdX6)
+📺 **Video en YouTube:** [🔗 Día 2 - Aprende pwd y descubre en que directorio estas en Linux](https://youtu.be/r8oF7tlP0KE)
 
 🚀 **Sigue la serie en GitHub**: [🔗 aprendiz-linux](https://github.com/jorgearma1982/aprendiz-linux/tree/main/21_dias_comandos_basicos)
 
