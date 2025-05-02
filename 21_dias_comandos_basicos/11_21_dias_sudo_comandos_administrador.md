@@ -54,8 +54,18 @@ sudo usermod -aG sudo tu_usuario
 sudo -k
 ```
 
+## Referencias
+
 ## 📚 Recursos adicionales
 
 * `man sudo`
 * ArchWiki: [Sudo](https://wiki.archlinux.org/title/Sudo)
 * Guía de Ubuntu: [RootSudo](https://help.ubuntu.com/community/RootSudo)
+
+Todo el contenido de esta serie está disponible en el repositorio:
+
+👉 [🔗 aprendiz-linux](https://github.com/jorgearma1982/aprendiz-linux/tree/main/21_dias_comandos_basicos)
+
+Y no olvides visitar el canal de YouTube para ver el video práctico del día:
+
+📺 [Día 11 - Aprende el comando sudo para ejecutar comandos como administrador en Linux](https://youtu.be/bS7JElA2GI4)
