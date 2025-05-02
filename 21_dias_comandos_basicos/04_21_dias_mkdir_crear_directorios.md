@@ -64,7 +64,7 @@ mkdir -v mis_fotos
 
 📖 **Documentación oficial:** [GNU Coreutils `mkdir`](https://www.gnu.org/software/coreutils/manual/html_node/mkdir-invocation.html) 
 
-📺 **Video en YouTube:** [🔗 Día 4 - Aprende el comando mkdir para crear directorios en Linux](https://youtu.be/zs-KZazFa5o?si=TsT0GXtEwsEMs1RY)
+📺 **Video en YouTube:** [🔗 Día 4 - Aprende el comando mkdir para crear directorios en Linux](https://youtu.be/zs-KZazFa5o)
  
 🚀 **Sigue la serie en GitHub**: [aprendiz-linux](https://github.com/jorgearma1982/aprendiz-linux/tree/main/21_dias_comandos_basicos)
 
