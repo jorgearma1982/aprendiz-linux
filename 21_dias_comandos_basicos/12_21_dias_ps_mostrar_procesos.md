@@ -63,6 +63,8 @@ ps aux | grep <nombre_proceso>
 ps aux | grep '[f]irefox'
 ```
 
+## Referencias
+
 ## 🔗 Recursos adicionales
 
 * Documentación oficial del comando `ps`:
@@ -72,8 +74,8 @@ ps aux | grep '[f]irefox'
 
 Encuentra todos los comandos, scripts y notas del reto de 21 días en el repositorio de GitHub:
 
-👉 [https://github.com/tuusuario/linux-21dias](https://github.com/tuusuario/linux-21dias)
+👉 [aprendiz-linux](https://github.com/jorgearma1982/aprendiz-linux/tree/main/21_dias_comandos_basicos)
 
 Y no olvides visitar el canal de YouTube para ver el video práctico del día:
 
-📺 [https://youtube.com/@TuCanalLinux](https://youtube.com/@TuCanalLinux)
+📺 [Día 12 - Aprende el comando ps para mostrar los procesos en tu sistema Linux](https://youtu.be/1FgDGWXimbc)
