@@ -69,4 +69,4 @@ Encuentra todos los comandos y ejercicios en el repositorio del reto:
 🔗 [aprendiz-linux](https://github.com/jorgearma1982/aprendiz-linux/tree/main/21_dias_comandos_basicos)
 
 Mira el video de este día en YouTube:  
-▶️ https://youtube.com/tu-video-dia20
+▶️ [Día 20 - Aprende el comando ifconfig para configurar interfaces de red en Linux](https://youtu.be/5IG_0zxV5nQ)
