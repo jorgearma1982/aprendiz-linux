@@ -58,4 +58,4 @@ Repositorio con ejemplos del reto:
 📁 [aprendiz-linux](https://github.com/jorgearma1982/aprendiz-linux/tree/main/21_dias_comandos_basicos)
 
 Video del día 21 en YouTube:  
-▶️ **https://youtube.com/@linux-practico**
+▶️ [Día 21 - Proyecto Instala y monitoriza un Servidor Web en la terminal de Linux](https://youtu.be/_8MQZvYhcuw)
