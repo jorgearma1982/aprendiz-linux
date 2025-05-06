@@ -65,6 +65,6 @@ kill <PID>
 
 ## Referencias
 
-📦 Repositorio con ejemplos: [aprendiz-linux]([https://github.com/tu-usuario/linux-en-21-dias](https://github.com/jorgearma1982/aprendiz-linux/tree/main/21_dias_comandos_basicos))
+📦 Repositorio con ejemplos: [aprendiz-linux](https://github.com/jorgearma1982/aprendiz-linux/tree/main/21_dias_comandos_basicos)
 
 🎥 Video de este día en YouTube: [🧨 kill - Termina procesos en Linux](https://www.youtube.com/watch?v=-8c3-6OANek&t=1s)
