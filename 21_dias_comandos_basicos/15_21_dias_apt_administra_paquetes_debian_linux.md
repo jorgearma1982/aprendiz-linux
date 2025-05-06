@@ -79,7 +79,7 @@ sudo apt update && sudo apt upgrade
 - Documentación oficial de `apt`: https://manpages.debian.org/apt
 - Lista de paquetes populares: https://packages.ubuntu.com/
 
-- ▶️ Video de YouTube: 👉 Mira el video de este día para ver todos los ejemplos en acción: [https://youtu.be/32BBwRmkIRU?si=1k_GeZuelBKGCXpU](https://youtu.be/32BBwRmkIRU?si=1k_GeZuelBKGCXpU)
+- ▶️ Video de YouTube: 👉 Mira el video de este día para ver todos los ejemplos en acción: [Día 15 - Aprende el comando apt para Administrar Paquetes de software en Debian Linux](https://youtu.be/32BBwRmkIRU)
 
 - 📁 Repositorio del curso: Accede a todos los ejemplos, notas y recursos desde nuestro repositorio en GitHub:  
 🔗 [aprendiz-linux](https://github.com/jorgearma1982/aprendiz-linux/tree/main/21_dias_comandos_basicos)
