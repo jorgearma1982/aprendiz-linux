@@ -64,5 +64,5 @@ Esto forzará la instalación de las dependencias faltantes.
 
 Este contenido forma parte de la serie **"21 días, 21 comandos de Linux"** disponible en nuestro canal de YouTube.
 
-🔗 Video del día: [https://youtu.be/-ZLZiPlfmd4?si=53LW9Bbx3QJlMrbP](https://youtu.be/-ZLZiPlfmd4?si=53LW9Bbx3QJlMrbP)  
+🔗 Video del día: [Día 16 - Aprende el comando dpkg para gestionar paquetes .deb en Linux](https://youtu.be/-ZLZiPlfmd4)  
 📦 Repositorio con todos los ejemplos: [aprendiz-linux](https://github.com/jorgearma1982/aprendiz-linux/tree/main/21_dias_comandos_basicos)
