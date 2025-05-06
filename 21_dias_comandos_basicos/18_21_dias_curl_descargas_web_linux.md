@@ -50,4 +50,4 @@ Mira el video con la explicación práctica de este comando en YouTube:
 ## 📦 Repositorio del reto
 
 Todo el contenido del reto "Linux en 21 días" está disponible en el siguiente repositorio:  
-[https://github.com/tuusuario/linux-en-21-dias](https://github.com/tuusuario/linux-en-21-dias)
+[aprendiz-linux](https://github.com/jorgearma1982/aprendiz-linux/tree/main/21_dias_comandos_basicos)
