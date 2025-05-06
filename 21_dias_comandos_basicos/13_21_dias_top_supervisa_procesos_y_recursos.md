@@ -43,7 +43,7 @@ top
   https://man7.org/linux/man-pages/man1/top.1.html
 
 * Video del día en YouTube:  
-  [🔗 Enlace al video](https://www.youtube.com/watch?v=-xTE-rqFwuM)
+  [🔗 Día 13 - Aprende el comando top para monitorear tu sistema Linux](https://www.youtube.com/watch?v=-xTE-rqFwuM)
 
 * Repositorio con ejemplos y notas del reto:  
   [aprendiz-linux](https://github.com/jorgearma1982/aprendiz-linux/tree/main/21_dias_comandos_basicos)
