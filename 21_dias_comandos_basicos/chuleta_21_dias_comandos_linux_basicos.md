@@ -61,4 +61,4 @@ clasificado y tiene un ejemplo práctico para recordar su uso.
 
 📺 Mira los videos de cada comando en el [Reto 21 días comandos Linux](https://youtube.com/playlist?list=PLWa9LbkzT6D0DF_BKcZolZvvqY5FrxMba).
 
-📘 Consulta el repositorio con todas las notas en GitHub: [aprendiz-linux](https://github.com/jorgearma1982/aprendiz-linux/tree/main/21_dias_comandos_basicos)
+📘 Consulta el repositorio con todas las notas en GitHub: [aprendiz-linux](https://github.com/jorgearma1982/aprendiz-linux/tree/main/21_dias_comandos_basicos).
