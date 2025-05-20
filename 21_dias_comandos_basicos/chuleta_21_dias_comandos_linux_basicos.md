@@ -59,16 +59,6 @@ clasificado y tiene un ejemplo práctico para recordar su uso.
 
 **¿Dónde puedo encontrar más?**
 
-## 📚 Recursos adicionales
-
-- 🎥 Video: [grep - Aprende a buscar texto dentro de archivos en la terminal Linux](https://youtu.be/a62kLa-ptnc)
-- 💾 Repositorio GitHub: [aprendiz-linux/busqueda_linux](https://github.com/jorgearma1982/aprendiz-linux/tree/main/comandos_busqueda)
-- 📺 Lista completa: [Reto 21 días comandos Linux](https://youtube.com/playlist?list=PLWa9LbkzT6D0DF_BKcZolZvvqY5FrxMba)
-
-> ✍️ Estas notas acompañan un video corto para ayudar a nuevos usuarios de Linux a dominar la terminal con
-> ejemplos simples y prácticos.
-> 
-
 📺 Mira los videos de cada comando en el [Reto 21 días comandos Linux](https://youtube.com/playlist?list=PLWa9LbkzT6D0DF_BKcZolZvvqY5FrxMba).
 
 📘 Consulta el repositorio con todas las notas en GitHub: [aprendiz-linux](https://github.com/jorgearma1982/aprendiz-linux/tree/main/21_dias_comandos_basicos)
