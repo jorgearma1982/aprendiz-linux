@@ -1,4 +1,4 @@
-# Comando `grep` - Aprende a buscar texto dentro de archivos en la terminal Linux
+# 🔍 `grep` - Aprende a buscar texto dentro de archivos en la terminal Linux
 
 📅 **Serie Especial: Comandos de búsqueda en Linux**  
 🎯 **Objetivo**: Desarrollar fluidez en la terminal para buscar información dentro de archivos y directorios
