@@ -77,7 +77,7 @@ grep -r texto .
 ## 📚 Recursos adicionales
 
 - 🎥 Video: [grep - Aprende a buscar texto dentro de archivos en la terminal Linux](https://youtu.be/a62kLa-ptnc)
-- 💾 Repositorio GitHub: [aprendiz-linux/busqueda_linux](https://github.com/jorgearma1982/aprendiz-linux/tree/main/busqueda_linux)
+- 💾 Repositorio GitHub: [aprendiz-linux/busqueda_linux](https://github.com/jorgearma1982/aprendiz-linux/tree/main/comandos_busqueda)
 - 📺 Lista completa: [Reto 21 días comandos Linux](https://youtube.com/playlist?list=PLWa9LbkzT6D0DF_BKcZolZvvqY5FrxMba)
 
 > ✍️ Estas notas acompañan un video corto para ayudar a nuevos usuarios de Linux a dominar la terminal con
